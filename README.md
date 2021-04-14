@@ -5,4 +5,4 @@ Built using HTML, CSS, and a little bit of JS. Logo and graphics made through Ph
 
 https://gammaconvexity.com/
 
-![alt text](https://github.com/GammaConvexity/Triplex/blob/main/sample.png?raw=true)
+![alt text](https://github.com/GammaConvexity/GC-Website/blob/main/sample.png?raw=true)
